@@ -620,12 +620,12 @@
     <string name="keyboard_key_media_previous" msgid="4256072387192967261">"Предыдущий трек"</string>
     <string name="keyboard_key_media_rewind" msgid="2654808213360820186">"Перемотка назад"</string>
     <string name="keyboard_key_media_fast_forward" msgid="3849417047738200605">"Перемотка вперед"</string>
-    <string name="keyboard_key_page_up" msgid="5654098530106845603">"Page Up"</string>
-    <string name="keyboard_key_page_down" msgid="8720502083731906136">"Page Down"</string>
-    <string name="keyboard_key_forward_del" msgid="1391451334716490176">"Delete"</string>
-    <string name="keyboard_key_move_home" msgid="2765693292069487486">"Home"</string>
-    <string name="keyboard_key_move_end" msgid="5901174332047975247">"End"</string>
-    <string name="keyboard_key_insert" msgid="8530501581636082614">"Insert"</string>
+    <string name="keyboard_key_page_up" msgid="5654098530106845603">"Страница вверх"</string>
+    <string name="keyboard_key_page_down" msgid="8720502083731906136">"Страница вниз"</string>
+    <string name="keyboard_key_forward_del" msgid="1391451334716490176">"Удалить"</string>
+    <string name="keyboard_key_move_home" msgid="2765693292069487486">"Домой"</string>
+    <string name="keyboard_key_move_end" msgid="5901174332047975247">"Конец"</string>
+    <string name="keyboard_key_insert" msgid="8530501581636082614">"Вставить"</string>
     <string name="keyboard_key_num_lock" msgid="5052537581246772117">"Num Lock"</string>
     <string name="keyboard_key_numpad_template" msgid="8729216555174634026">"<xliff:g id="NAME">%1$s</xliff:g> на цифровой панели"</string>
     <string name="keyboard_shortcut_group_system" msgid="6472647649616541064">"Система"</string>
